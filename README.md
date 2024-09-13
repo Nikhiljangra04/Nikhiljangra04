@@ -2,8 +2,12 @@
 
 ---------------------------------------------------------------------------------------------
 
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-🎓 CSE'27 | Contributor @ GSSoC'24
+👨🏻‍💻  About Me 👋
+- 🎓 **CSE'27** | Bachelor of Technology (B.Tech) in Computer Science & Engineering
+- 🌟 **Contributor @ GSSoC'24** | Actively contributing to open-source projects
+- 💻 **Skills**: C, Python, Web Development 
+- 🚀 **Currently Learning**: Data Structures & Algorithm
+
 
   <br>
 ## GSSOC(24) Badges 🪶
@@ -16,4 +20,12 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   
 </div>
+<br>
+<div>
+✨ Quote of the Day<pre>
+> "Higher the risk, higher the returns." – [Nikhil Jangra]</pre>
+</div>
+
+
+
 
